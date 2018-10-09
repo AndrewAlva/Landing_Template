@@ -1,1 +1,15 @@
 /node_modules
+/dist
+/public
+public/
+/package-lock.json
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
+Thumbs.db
